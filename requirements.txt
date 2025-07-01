@@ -1,0 +1,4 @@
+requests==2.32.4
+python-dotenv==1.1.1
+kafka-python==2.2.14
+cassandra-driver==3.29.2
